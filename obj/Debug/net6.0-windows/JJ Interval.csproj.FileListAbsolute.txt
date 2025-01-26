@@ -1,0 +1,18 @@
+C:\Users\jason\source\repos\JJ Interval\JJ Interval\bin\Debug\net6.0-windows\JJ Interval.exe
+C:\Users\jason\source\repos\JJ Interval\JJ Interval\bin\Debug\net6.0-windows\JJ Interval.deps.json
+C:\Users\jason\source\repos\JJ Interval\JJ Interval\bin\Debug\net6.0-windows\JJ Interval.runtimeconfig.json
+C:\Users\jason\source\repos\JJ Interval\JJ Interval\bin\Debug\net6.0-windows\JJ Interval.dll
+C:\Users\jason\source\repos\JJ Interval\JJ Interval\bin\Debug\net6.0-windows\JJ Interval.pdb
+C:\Users\jason\source\repos\JJ Interval\JJ Interval\obj\Debug\net6.0-windows\JJ Interval.csproj.AssemblyReference.cache
+C:\Users\jason\source\repos\JJ Interval\JJ Interval\obj\Debug\net6.0-windows\JJ_Interval.Form1.resources
+C:\Users\jason\source\repos\JJ Interval\JJ Interval\obj\Debug\net6.0-windows\JJ Interval.csproj.GenerateResource.cache
+C:\Users\jason\source\repos\JJ Interval\JJ Interval\obj\Debug\net6.0-windows\JJ Interval.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jason\source\repos\JJ Interval\JJ Interval\obj\Debug\net6.0-windows\JJ Interval.AssemblyInfoInputs.cache
+C:\Users\jason\source\repos\JJ Interval\JJ Interval\obj\Debug\net6.0-windows\JJ Interval.AssemblyInfo.cs
+C:\Users\jason\source\repos\JJ Interval\JJ Interval\obj\Debug\net6.0-windows\JJ Interval.csproj.CoreCompileInputs.cache
+C:\Users\jason\source\repos\JJ Interval\JJ Interval\obj\Debug\net6.0-windows\JJ Interval.dll
+C:\Users\jason\source\repos\JJ Interval\JJ Interval\obj\Debug\net6.0-windows\refint\JJ Interval.dll
+C:\Users\jason\source\repos\JJ Interval\JJ Interval\obj\Debug\net6.0-windows\JJ Interval.pdb
+C:\Users\jason\source\repos\JJ Interval\JJ Interval\obj\Debug\net6.0-windows\JJ Interval.genruntimeconfig.cache
+C:\Users\jason\source\repos\JJ Interval\JJ Interval\obj\Debug\net6.0-windows\ref\JJ Interval.dll
+C:\Users\jason\source\repos\JJ Interval\JJ Interval\obj\Debug\net6.0-windows\JJ_Interval.Form2.resources
